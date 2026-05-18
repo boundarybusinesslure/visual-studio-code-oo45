@@ -1,4 +1,4 @@
-# 
+# instant JetBrains IntelliJ IDEA PC版 插件 是最佳 JetBrains IntelliJ IDEA PC版 插件，集成 问题跟踪 和 拉取请求管理。安全、可靠、优化，性能最大化。
 
 
 
